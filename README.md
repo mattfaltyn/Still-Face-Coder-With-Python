@@ -4,10 +4,10 @@ Still Face Coder is a Python repository created to code the [Face-to-Face Still-
 
 There are four DNN models in the repository with different variations of train-test splits: 
 
-•	SF-80: 80% training, 20% test
-•	SF-50: 50% training, 50% test
-•	SF-25: 25% training, 75% test 
-•	SF-10: 10% training, 90% test 
+- SF-80: 80% training, 20% test
+- SF-50: 50% training, 50% test
+- SF-25: 25% training, 75% test 
+- SF-10: 10% training, 90% test 
 
 ## Usage
 
