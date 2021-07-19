@@ -15,7 +15,7 @@ There are four DNN models in the repository with different variations of train-t
 Complete and inactive as of April, 2021.
 
 ## Installation
-1. Download and install [R](https://www.r-project.org/).
+1. Download and install [Python 3](https://www.python.org/downloads/).
 2. Clone this repository onto your local machine.
 3. Install and import all of the required packages.
 
